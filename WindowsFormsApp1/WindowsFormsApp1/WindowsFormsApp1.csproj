@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9AF8B192-EDF4-4C5D-82F9-5D0EE2E24A49}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Danilovsoft.MicroORM, Version=2.1.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Danilovsoft.MicroORM.2.1.5\lib\net46\Danilovsoft.MicroORM.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin\Adminconn.cs" />
+    <Compile Include="IDataDelete.cs" />
+    <Compile Include="IShowDataInGridview.cs" />
+    <Compile Include="IUserType.cs" />
+    <Compile Include="MatchesInsertUpdateShow.cs" />
+    <Compile Include="playershowinfo.cs" />
+    <Compile Include="playerUpDelet.cs" />
+    <Compile Include="player\PlayerView\Teams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\PlayerView\Teams.Designer.cs">
+      <DependentUpon>Teams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\machesup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\machesup.Designer.cs">
+      <DependentUpon>machesup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\PlayerView\playerinf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\PlayerView\playerinf.Designer.cs">
+      <DependentUpon>playerinf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\PlayerUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\PlayerUpdate.Designer.cs">
+      <DependentUpon>PlayerUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\TeamUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\TeamUpdate.Designer.cs">
+      <DependentUpon>TeamUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\PlayerView\tournament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\PlayerView\tournament.Designer.cs">
+      <DependentUpon>tournament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\tournamentup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\AdminUpdate\tournamentup.Designer.cs">
+      <DependentUpon>tournamentup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamInsertUpdateDelete.cs" />
+    <Compile Include="Tournament.cs" />
+    <Compile Include="TournamentUpdate.cs" />
+    <Compile Include="wellcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wellcome.Designer.cs">
+      <DependentUpon>wellcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player\plyerregs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\plyerregs.Designer.cs">
+      <DependentUpon>plyerregs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin\insertallActi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\insertallActi.Designer.cs">
+      <DependentUpon>insertallActi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\LogInp.cs" />
+    <Compile Include="DbConnection.cs" />
+    <Compile Include="player\player.cs" />
+    <Compile Include="player\playerinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="player\playerinfo.Designer.cs">
+      <DependentUpon>playerinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="player\PlayerView\Teams.resx">
+      <DependentUpon>Teams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\AdminUpdate\machesup.resx">
+      <DependentUpon>machesup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\PlayerView\playerinf.resx">
+      <DependentUpon>playerinf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\AdminUpdate\PlayerUpdate.resx">
+      <DependentUpon>PlayerUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\AdminUpdate\TeamUpdate.resx">
+      <DependentUpon>TeamUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\PlayerView\tournament.resx">
+      <DependentUpon>tournament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\AdminUpdate\tournamentup.resx">
+      <DependentUpon>tournamentup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wellcome.resx">
+      <DependentUpon>wellcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\plyerregs.resx">
+      <DependentUpon>plyerregs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\insertallActi.resx">
+      <DependentUpon>insertallActi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="player\playerinfo.resx">
+      <DependentUpon>playerinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sports2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="admin\AdminUpdate\EDU_SOLUTONS\" />
+    <Folder Include="connectnew\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

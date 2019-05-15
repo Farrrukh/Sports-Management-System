@@ -1,0 +1,103 @@
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+E:\student registeration\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.wellcome.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.plyerregs.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.insertallActi.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playerinfo.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.machesup.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlayerUpdate.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TeamUpdate.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.tournamentup.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Maches.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playerinf.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.tournament.resources
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Danilovsoft.MicroORM.dll
+D:\sprt mng\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Danilovsoft.MicroORM.xml
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Maches.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.machesup.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playerinf.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlayerUpdate.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TeamUpdate.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.tournament.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.tournamentup.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.wellcome.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.plyerregs.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.insertallActi.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playerinfo.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Maches.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.machesup.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playerinf.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlayerUpdate.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TeamUpdate.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.tournament.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.tournamentup.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.wellcome.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.plyerregs.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.insertallActi.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.playerinfo.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\farrukh khan\Desktop\sprt mangm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
